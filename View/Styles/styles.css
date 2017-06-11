@@ -1,0 +1,19 @@
+body{
+    background-color: #E0E0E0;
+    font-family: sans-serif;
+}
+
+#auth{
+    background-color: #26A69A;
+    margin : 0 auto;
+    text-align : center;
+    width : 15%;
+    padding : 1%;
+    margin-top: 10%;
+    box-shadow: #009688;
+}
+
+input{
+    margin-bottom: 10px;
+    text-align : center;
+}
